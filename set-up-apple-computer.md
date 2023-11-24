@@ -12,3 +12,4 @@ tap to click
 
 6.download google
 
+7.three fingers drag
