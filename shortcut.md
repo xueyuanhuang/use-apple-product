@@ -28,3 +28,7 @@ browser video zoom or narrow: f
 open terminal:cmd+space, type in terminal  
 
 [install jupyter notebook in a new mac](https://noteable.io/jupyter-notebook/install-jupyter-notebook/#install-mac)  
+
+show path:option+cmd+p
+
+delete folder:ctrl+click, choose to move to bin
