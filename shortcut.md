@@ -23,4 +23,8 @@ change between same application:command+~
 see all your page: four fingers up
 
 browser back or forward:command+righ/left_tarrow  
-browser video zoom or narrow: f
+browser video zoom or narrow: f  
+
+open terminal:cmd+space, type in terminal  
+
+[install jupyter notebook in a new mac](https://noteable.io/jupyter-notebook/install-jupyter-notebook/#install-mac)  
