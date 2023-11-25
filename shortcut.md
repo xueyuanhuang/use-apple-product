@@ -5,7 +5,7 @@ esc:close the page
 open new tag page without jump to it:command+click the url  
 open new tag page and jump to it:shift+command+click the url  
 open new page:`shift`+`click the url`
-open new blank tag page:command+T
+open new blank tag page:command+T  
 open new window: command+N  
 merge two page into one:drag tag button on the toolbar into another page
 
