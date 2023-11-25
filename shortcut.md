@@ -31,4 +31,6 @@ open terminal:cmd+space, type in terminal
 
 show path:option+cmd+p
 
-delete folder:ctrl+click, choose to move to bin
+delete folder:ctrl+click, choose to move to bin  
+
+zoom in and zoom out the page:control+cmd+F
