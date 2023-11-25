@@ -6,6 +6,9 @@ open new tag page without jump to it:command+click the url
 open new tag page and jump to it:shift+command+click the url  
 open new page:`shift`+`click the url`
 open new blank tag page:command+T
+open new window: command+N  
+merge two page into one:drag tag button on the toolbar into another page
+
 
 choose one line: three fingers drag  
 go to line head:command+leftarrow  
@@ -13,5 +16,11 @@ go to line tail:command+rightarrow
 
 jump to another tag page:ctrl+tab  
 jump to next tag page:command+option+leftarrow  
-jump to above tag page:command+option+rightarrow
-jump to another page:command+tab
+jump to above tag page:command+option+rightarrow  
+change between different application:command+tab  
+change between same application:command+~  
+
+see all your page: four fingers up
+
+browser back or forward:command+righ/left_tarrow  
+browser video zoom or narrow: f
